@@ -45,3 +45,4 @@ Documentation Links:
 
 *4. Create & Manage Azure VMs via Azure CLI: https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm*
 
+*5. ChatGPT Link: https://chatgpt.com/share/68e630f4-e6c0-8011-bb6c-9ee82276d9d3*
