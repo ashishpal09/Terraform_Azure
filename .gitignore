@@ -3,4 +3,5 @@
 *.tfstate.backup
 *.log
 crash.log
-override.tf
+terraform.tfstate
+terraform.tfstate.backup
